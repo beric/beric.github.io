@@ -30,3 +30,17 @@ hr.style-two {
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
 }
+
+nav {
+    text-align: right;
+}
+nav ul {
+    padding-left: 0px;
+}
+nav ul li {
+    display: inline-block;
+    margin: 0;
+    list-style: none;
+    /*padding: 0 10px;*/
+    padding: 0 15px;
+}
