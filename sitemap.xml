@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"> 
   <url>
-    <loc>https://www.ericjasonbrown.com/index.html</loc> 
+    <loc>https://www.ericjasonbrown.com/index.html</loc>
   </url>
   <url>
     <loc>https://www.ericjasonbrown.com/about/index.html</loc> 
@@ -12,5 +12,40 @@
   </url>
   <url>
   	<loc>https://www.ericjasonbrown.com/contact/index.html</loc>
+  </url>
+  <url>
+    <loc>https://www.ericjasonbrown.com/app-wish-list/index.html</loc>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/wishlisticon.png</image:loc>
+       <image:caption>App Wish List</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ericjasonbrown.com/oldio-audiobook-classics/index.html</loc>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/oldioicon.png</image:loc>
+       <image:caption>Oldio - Audiobook Classics</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ericjasonbrown.com/proven-job-search/index.html</loc>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/provenicon.png</image:loc>
+       <image:caption>Proven Job Search</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ericjasonbrown.com/proven-hiring-for-employers/index.html</loc>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/hiringicon.png</image:loc>
+       <image:caption>Proven Hiring for Employers</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ericjasonbrown.com/job-search/index.html</loc>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/jobsearchicon.png</image:loc>
+       <image:caption>Job Search</image:caption>
+    </image:image>
   </url>
 </urlset>
