@@ -19,12 +19,20 @@
        <image:loc>https://ericjasonbrown.com/images/wishlisticon.png</image:loc>
        <image:caption>App Wish List</image:caption>
     </image:image>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/wishlist-device.jpg</image:loc>
+       <image:caption>App Wish List &amp; Price Tracker for iPhone and iPad, developed by Eric Brown</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.ericjasonbrown.com/oldio-audiobook-classics/index.html</loc>
     <image:image>
        <image:loc>https://ericjasonbrown.com/images/oldioicon.png</image:loc>
        <image:caption>Oldio - Audiobook Classics</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/oldio-device.jpg</image:loc>
+       <image:caption>Oldio - Audiobook Classics for iPhone, developed by Eric Brown</image:caption>
     </image:image>
   </url>
   <url>
@@ -33,6 +41,10 @@
        <image:loc>https://ericjasonbrown.com/images/provenicon.png</image:loc>
        <image:caption>Proven Job Search</image:caption>
     </image:image>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/proven-device.jpg</image:loc>
+       <image:caption>Proven Job Search for iPhone and iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.ericjasonbrown.com/proven-hiring-for-employers/index.html</loc>
@@ -40,12 +52,20 @@
        <image:loc>https://ericjasonbrown.com/images/hiringicon.png</image:loc>
        <image:caption>Proven Hiring for Employers</image:caption>
     </image:image>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/hiring-device.jpg</image:loc>
+       <image:caption>Proven Hiring for Employers for iPhone and iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.ericjasonbrown.com/job-search/index.html</loc>
     <image:image>
        <image:loc>https://ericjasonbrown.com/images/jobsearchicon.png</image:loc>
        <image:caption>Job Search</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>https://ericjasonbrown.com/images/jobsearch-device.jpg</image:loc>
+       <image:caption>Job Search for iPhone and iPad</image:caption>
     </image:image>
   </url>
 </urlset>
