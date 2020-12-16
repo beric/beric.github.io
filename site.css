@@ -1,4 +1,4 @@
-body{background:#FFF;margin:40px auto;max-width:720px;line-height:1.6;font-size:19px;font-family:avenir,sans-serif;color:#444;padding:0 20px;}
+body{background:#FFF;margin:40px auto;max-width:720px;line-height:1.6;font-size:21px;font-family:avenir,sans-serif;color:#444;padding:0 20px;}
 h1,h2,h3{line-height:1.2;font-family:avenir,sans-serif;}
 a{color:#009FC5;text-decoration:none;}
 a:hover{text-decoration:underline;}
@@ -44,3 +44,12 @@ nav ul li {
     /*padding: 0 10px;*/
     padding: 0 15px;
 }
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ddd;
+        background: #121212;
+    }
+    hr.style-two {
+        background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+    }
+  }
